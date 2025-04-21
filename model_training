@@ -27,6 +27,8 @@ config = {
         'dynamic_data_path': '/path/to/dynamic.csv',
         'static_data_path': '/path/to/static.csv',
         'grid_data_path': '/path/to/grid.csv',
+        'sequence_length': 24,
+        'forecast_horizons': [1, 6, 24],
         'train_start_date': '2017-01-01',
         'train_end_date': '2018-12-31',
         'val_start_date': '2019-01-01',
