@@ -1,6 +1,6 @@
 # STT-STGNN-GAT_LSTM for Multi-horizon (1, 6 &amp; 24 hours) Short-term Load Forecasting 
 
-This repository contains the implementation of the Space-then_Time variant of the Spatiotemporal Graph Neural Network model (STT-STGNN) GAT_LSTM, a hybrid approach that combines multiscale Graph Attention Networks (GAT) and Long Short-Term Memory Networks (LSTM) for multi-horizon short-term power load forecasting. The model leverages the spatio-temporal dependencies in energy systems, incorporating graph-structured data (e.g., power grid topology) and temporal sequences (e.g., historical energy consumption and weather data). **Detailed explanation of the model and results are captured in the paper**: ....
+This repository contains the implementation of the Space-then-Time variant Spatiotemporal Graph Neural Network model (STT-STGNN) GAT_LSTM, a hybrid approach that combines multiscale Graph Attention Networks (GAT) and Long Short-Term Memory Networks (LSTM) for multi-horizon short-term power load forecasting. The model leverages the spatio-temporal dependencies in energy systems, incorporating graph-structured data (e.g., power grid topology) and temporal sequences (e.g., historical energy consumption and weather data). **Detailed explanation of the model and results are captured in the paper**: ....
 
 **Features**
 
